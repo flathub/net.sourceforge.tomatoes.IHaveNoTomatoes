@@ -37,6 +37,9 @@
   <provides>
     <binary>tomatoes</binary>
   </provides>
+  <requires>
+    <control>keyboard</control>
+  </requires>
   <releases>
     <release version="1.5" date="2004-09-26">
       <description>I Have No Tomatoes version 1.5 released, including the new two player mode!</description>
