@@ -29,14 +29,17 @@
       <image>http://tomatoes.sourceforge.net/ss4.jpg</image>
     </screenshot>
   </screenshots>
-  <bundle type="flatpak">net.sourceforge.tomatoes.IHaveNoTomatoes</bundle>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">moderate</content_attribute>
   </content_rating>
   <url type="homepage">http://tomatoes.sourceforge.net/</url>
+  <url type="bugtracker">https://sourceforge.net/p/tomatoes/_list/tickets</url>
   <provides>
     <binary>tomatoes</binary>
   </provides>
+  <requires>
+    <control>keyboard</control>
+  </requires>
   <releases>
     <release version="1.5" date="2004-09-26">
       <description>I Have No Tomatoes version 1.5 released, including the new two player mode!</description>
