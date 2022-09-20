@@ -29,7 +29,6 @@
       <image>http://tomatoes.sourceforge.net/ss4.jpg</image>
     </screenshot>
   </screenshots>
-  <bundle type="flatpak">net.sourceforge.tomatoes.IHaveNoTomatoes</bundle>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">moderate</content_attribute>
   </content_rating>
