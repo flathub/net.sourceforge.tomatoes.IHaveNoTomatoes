@@ -41,8 +41,12 @@
     <control>keyboard</control>
   </requires>
   <releases>
+    <release version="1.55" date="2004-11-08">
+      <description>Patch for the Linux version in order to use SDL_Mixer instead of FMOD (from Joe Jezak)</description>
+    </release>
     <release version="1.5" date="2004-09-26">
       <description>I Have No Tomatoes version 1.5 released, including the new two player mode!</description>
     </release>
+    <release version="1.0" date="2004-07-25"/>
   </releases>
 </component>
